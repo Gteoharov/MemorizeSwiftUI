@@ -62,9 +62,9 @@
 			children = (
 				2159FA7A2481B75200A9DC16 /* MemoryGame.swift */,
 				2159FA7C2481B9F200A9DC16 /* EmojiMemoryGame.swift */,
+				217536BA24817793000A1AC7 /* EmojiMemoryGameView.swift */,
 				217536B624817793000A1AC7 /* AppDelegate.swift */,
 				217536B824817793000A1AC7 /* SceneDelegate.swift */,
-				217536BA24817793000A1AC7 /* EmojiMemoryGameView.swift */,
 				217536BC24817793000A1AC7 /* Assets.xcassets */,
 				217536C124817793000A1AC7 /* LaunchScreen.storyboard */,
 				217536C424817793000A1AC7 /* Info.plist */,
